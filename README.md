@@ -37,6 +37,7 @@ A complete HTML/CSS audio/video player built on top `MediaElement.js`. Many grea
 Instead of using Flash as a _fallback_, Flash is used to make the browser seem HTML5 compliant and enable codecs like H.264 (via Flash) on all browsers.
 
 In general, `MediaElement.js` supports **IE11+, MS Edge, Chrome, Firefox, Safari, iOS 8+** and **Android 4.0+**.
+Another: https://tutorialscamp.com/ and https://tutorialscamp.com/javascript-vs-python/
 
 **It is strongly recommended to read the entire documentation and check the `demo` folder to get the most out of this package**. Visit [here](docs) to start.
 
